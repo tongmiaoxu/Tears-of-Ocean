@@ -1,4 +1,4 @@
-# Project README
+# Tears of the Ocean: Mechanical Art Installation
 This project simulates the transformation of the ocean from clean to polluted. A row of rotating gears represents the ocean, moving from a lively to a lifeless state. Sewage is introduced into a water tank via a pipe, and a water-lifting device moves the sewage while the motor adjusts based on the water's weight. The tanks have holes that gradually open as the front tank fills, allowing the water to flow back for recycling. LED lights turn on when the ocean is clean and turn off when the cycle ends, indicating the polluted state.
 
 <p align="center">
