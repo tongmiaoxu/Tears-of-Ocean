@@ -7,6 +7,7 @@ This project simulates the transformation of the ocean from clean to polluted. A
   <i>Figure 1: System Model</i>
 </p>
 
+This is our [video](https://youtu.be/-r8n2o7uCjk?si=KAASHLuoEmbxbW9F) instruction :)
 
 
 ## Setup and Installation
